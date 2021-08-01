@@ -1,0 +1,25 @@
+{
+  "name": "supercommit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuronbeck/superCommit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuronbeck/superCommit/issues"
+  },
+  "homepage": "https://github.com/nuronbeck/superCommit#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.1",
+    "random": "^3.0.6",
+    "simple-git": "^2.42.0"
+  }
+}
